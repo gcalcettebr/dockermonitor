@@ -37,7 +37,7 @@ Bora configrar o Grafana.
 Cofigurando Grafana
 -------------------
 
-Acessando [Web](http://127.0.0.1:3000/login)
+Acessando [Web](http://127.0.0.1:3000/login) 127.0.0.1:3000
 
 
 User: admin  pass:  changeme
