@@ -4,7 +4,7 @@ Monitorando Docker Host e container com [Prometheus](https://prometheus.io/), [G
 
 Original Project BY: [Stefan Prodan](https://github.com/stefanprodan).. Thanks man, you're awesome.
 
-Como disse acima o projeto se baseia no [dockprom](https://github.com/stefanprodan/dockprom), porém com algumas diferenças, atualmente fiz a parte de monitoramente , retirando toda a parte de Services Alert (porque não era o objetivo).
+Como disse acima o projeto se baseia no [dockprom](https://github.com/stefanprodan/dockprom), porém com algumas diferenças, atualmente fiz a parte de monitoramento , retirando toda a parte de Services Alert (porque não era o objetivo).
 
 Subindo o container
 -------------------
@@ -13,7 +13,7 @@ $git clone https://github.com/gcalcettebr/dockermonitor
 $cd dockermonitor
 $sudo docker-compose up
 ```
-Clone o repositorio , e rode o docker-compose.
+Clone o repositório , e rode o docker-compose.
 ----------------------------------------------
 
 Subiu a parada ai?
@@ -34,7 +34,7 @@ b91475cc2aa9        google/cadvisor:v0.24.1   "/usr/bin/cadvisor -l"   11 minute
 Subiu ae tudo bonitinho? três containers.
 
 Bora configurar o Grafana.
-Cofigurando Grafana
+Configurando Grafana
 -------------------
 
 Acessando [Web](http://127.0.0.1:3000/login) 127.0.0.1:3000
