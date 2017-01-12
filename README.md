@@ -33,7 +33,7 @@ b91475cc2aa9        google/cadvisor:v0.24.1   "/usr/bin/cadvisor -l"   11 minute
 ``` 
 Subiu ae tudo bonitinho? três containers.
 
-Bora configrar o Grafana.
+Bora configurar o Grafana.
 Cofigurando Grafana
 -------------------
 
